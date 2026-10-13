@@ -37,5 +37,5 @@
     "skipLibCheck": true,
     "esModuleInterop": true,
   },
-  "include": ["index.ts"]
+  "include": ["index.ts","db.ts"]
 }
